@@ -1,0 +1,28 @@
+.wbdv-job-details{
+    padding-top: 100px;
+}
+.wbdv-right-element{
+    float: right;
+}
+.wdbv-status-options{
+    display: inline-block !important;
+}
+.wbdv-post-queries{
+    margin-bottom: 30px;
+}
+
+.wbdv-submit-btn{
+    margin-top: 20px;
+}
+.wbdv-query{
+    margin-bottom: 10px;
+}
+.wbdv-query-btn{
+    margin-right: 5px;
+}
+.wbdv-applyBtn{
+    margin-bottom: 10px;
+}
+.wbdv-postedBy{
+    margin-right: 10px;
+}

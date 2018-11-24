@@ -1,0 +1,52 @@
+.wbdv-options {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: #efefef !important;
+}
+.wbdv-options:hover{
+    background-color: #28a745;
+}
+
+.wbdv-options-container{
+    padding-top: 56px;
+}
+.wbdv-option-list-container{
+    padding-top: 5%;
+    align-content: center;
+}
+
+.wbdv-options-item{
+    color: black;
+}
+
+.wbdv-options-item:hover{
+    color: black;
+}
+.wdbv-create-user-btn{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+.wbdv-create-user-form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #efefef !important;
+}
+.wbdv-right-element{
+    float: right !important;
+}
+.wbdv-btn{
+    margin-left: 5px;
+}
+.wbdv-access-forbidden{
+    margin-top: 94px;
+    margin-left: 10px;
+}
+
+.wbdv-options:hover{
+    background-color: darkgray !important;
+}
